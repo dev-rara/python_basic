@@ -1,0 +1,1 @@
+print('Kim Sora')print('20살')print('Korea Seoul')print('010-1234-5678')print('abc@gmail.com')print('python study')print('도서 구입: 20,000원')print('외식: 30,000원')

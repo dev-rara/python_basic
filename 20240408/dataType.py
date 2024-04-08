@@ -1,0 +1,1 @@
+# 자료형 이란?# 효율적인 메모리 사용을 위해서 데이터를 정수형, 실수형, 문자형, 논리형으로 구분한 것.# 정수형 (int)num = 10score = 90# 실수형 (float)pi = 3.14height = 157.2# 문자형 (str)intro = '안녕하세요.'country = 'Korea'# 논리형 (bool)exampleResult = TruedayOff = False# 숫자와 문자열num1 = 10num2 = 20print(num1 + num2)  # 30num1 = '10'num2 = '20'print(num1 + num2)  # 1020
