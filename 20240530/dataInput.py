@@ -1,0 +1,1 @@
+print('데이터를 입력하세요.')userInputData = input()print(userInputData)
