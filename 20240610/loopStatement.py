@@ -1,0 +1,1 @@
+for i in range(1, 10):    print('{} * {} = {}'.format(3, i, 3 * i))print('---------------------------')players = ['김광현', '박찬호', '박세리', '박지성', '김연경']for player in players:    print('{}선수 한테 메일 발송!'.format(player))print('---------------------------')num = 1while (num < 10):    print('num -> {}'.format(num))    num += 1
